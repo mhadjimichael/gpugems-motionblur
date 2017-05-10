@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/marios/Desktop/CPI_411_Local/Project-MotionBlur/MotionBlur-Public/Content/wolf/textures/Wolf_Body.jpg</SourceFile>
+  <SourceTime>2017-04-01T19:17:42-07:00</SourceTime>
+  <DestFile>C:/Users/marios/Desktop/CPI_411_Local/Project-MotionBlur/MotionBlur-Public/Content/bin/Windows/wolf/textures/Wolf_Body_0.xnb</DestFile>
+  <DestTime>2017-05-10T01:43:40.3339693-07:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2016-03-29T23:36:08-07:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2016-03-29T23:36:08-07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>DxtCompressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

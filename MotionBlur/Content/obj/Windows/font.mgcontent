@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/marios/Desktop/CPI_411_Local/Project-MotionBlur/MotionBlur-Public/Content/font.spritefont</SourceFile>
+  <SourceTime>2016-03-29T23:36:08-07:00</SourceTime>
+  <DestFile>C:/Users/marios/Desktop/CPI_411_Local/Project-MotionBlur/MotionBlur-Public/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2017-05-10T01:43:12.7955852-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-29T23:36:08-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-29T23:36:08-07:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
